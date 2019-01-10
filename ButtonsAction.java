@@ -1,6 +1,8 @@
 /**
  * Created by shurubov on 15.12.2015.https://javaswing.wordpress.com/2009/07/26/jbutton_pressing/
  */
+package ButtonsAction;
+
 import java.awt.Dimension;
 import java.awt.FlowLayout;
 import java.awt.event.ActionEvent;
